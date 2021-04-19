@@ -1,1 +1,0 @@
-este es el programa que impirme hola mundo.

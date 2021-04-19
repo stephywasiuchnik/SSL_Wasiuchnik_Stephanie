@@ -1,1 +1,0 @@
-(resolucion TP0)
